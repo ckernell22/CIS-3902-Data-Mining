@@ -7,7 +7,7 @@ Welcome to my data mining portfolio! This repository contains various projects I
 ### Natural Language Processing with Pyhon and the Classics
 - **Description:** This Jupyter Notebook mines two classic novels to determine the influance of characters (people) in the novels. 
 - **Technologies:** Numpy, pandas, and matplotlib are used to mine and chart the results.
-- **Repository Link:** [Link to GitHub repository](#)
+- **Repository Link:** [Link to GitHub repository](https://github.com/ckernell22/CIS-3902-Data-Mining/blob/052478da164375a3a83ee9a7e9cfdb0282d79d25/Kernell-Chapter_1_HW.ipynb)
 
 ### Project Name 2
 - **Description:** 
