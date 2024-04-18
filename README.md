@@ -12,7 +12,7 @@ Welcome to my data mining portfolio! This repository contains various projects I
 ### Project Name 2
 - **Description:** This project teaches you how to demonstrate the K-means clustering algorithm for customer segmentation.
 - **Technologies:** Python, Pandas, Seaborn
-- **Repository Link:** [Link to GitHub repository](https://github.com/ckernell22/CIS-3902-Data-Mining/blob/70462b3ee2b7dc264fc41452d7f756a7bb75c095/Customer_Segmentation_Using_Clustering.ipynb%20-%20Colab.pdf)
+- **Repository Link:** [Link to GitHub repository](https://github.com/ckernell22/CIS-3902-Data-Mining/blob/c707fb0afc3ef28f693328ea8927d71f81296560/Customer_Segmentation_Using_Clustering%20(1).ipynb)
 
 ### Project Name 3
 - **Description:** Brief description of the project, its goals, and the techniques used.
